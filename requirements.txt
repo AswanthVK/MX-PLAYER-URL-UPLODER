@@ -11,4 +11,4 @@ requests
 psycopg2-binary
 feedparser
 tgcrypto
-ytdlp
+yt-dlp
